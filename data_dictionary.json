@@ -1,0 +1,18 @@
+{
+    "Id": {
+        "type": "int",
+        "Definition": "Index of data"
+    },
+    "Year": {
+        "type": "str",
+        "Definition": "Year of the statistics"
+    },
+    "Primary Enrollment": {
+        "type": "float",
+        "Definition": "Number of students enrolled in Primary education"
+    },
+    "GDP": {
+        "type": "float",
+        "Definition": "GDP per capita (constant 2015 US$)"
+    }
+}
